@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Hello, world
-=======
-session_start, Hello, word!
->>>>>>> test
+<?php
+session_start();
+echo "Hello, world";
